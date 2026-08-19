@@ -1,0 +1,9 @@
+# Package definition for rclone
+
+package_name: rclone
+github_repo: rclone/rclone
+artifact_format: zip
+description: "Syncs files and directories to and from cloud storage providers (S3, Drive, Dropbox, etc.) via the command line."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.

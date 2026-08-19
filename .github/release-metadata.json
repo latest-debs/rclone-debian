@@ -1,0 +1,51 @@
+{
+  "package": "rclone",
+  "upstream_repo": "rclone/rclone",
+  "version": "v1.75.0",
+  "tag": "v1.75.0",
+  "published_at": "2026-07-31T17:10:19Z",
+  "license": "MIT",
+  "asset": "rclone-v1.75.0-linux-386.zip",
+  "asset_size": 29851563,
+  "sha256": "0cd6d0a18cf50004851e23f97dbcad5ebd16047590a704daebfbfe402425aefe",
+  "expected_sha256": "0cd6d0a18cf50004851e23f97dbcad5ebd16047590a704daebfbfe402425aefe",
+  "checksum_source": "SHA256SUMS",
+  "checksum_verified": true,
+  "assets": {
+    "rclone-v1.75.0-linux-arm-v7.zip": {
+      "sha256": "8fcfdd4121348b79b485b40c52dc22f3d26ee167ec78105e15f5dbe2246eee97",
+      "size": 29655871
+    },
+    "rclone-v1.75.0-linux-386.zip": {
+      "sha256": "0cd6d0a18cf50004851e23f97dbcad5ebd16047590a704daebfbfe402425aefe",
+      "size": 29851563
+    },
+    "rclone-v1.75.0-linux-arm.zip": {
+      "sha256": "17f3f07cfa17e065f0c3329149ba702bbaafdb87e7f00230830488d5391362f2",
+      "size": 29719861
+    },
+    "rclone-v1.75.0-linux-amd64.zip": {
+      "sha256": "aa2804e08f48250e71009c727124b6341cd0288465804a9a09d14663cabafbaa",
+      "size": 31456234
+    },
+    "rclone-v1.75.0-linux-mips.zip": {
+      "sha256": "954cd1d8fd54cdc82b246b6cc8a439b820180545fe48d3587ae2a4e5b67d8f31",
+      "size": 28136984
+    },
+    "rclone-v1.75.0-linux-mipsle.zip": {
+      "sha256": "ebfa68a9c5d5a1d971811b6d946a4cd1d63ccfbc60b625bd6bc0cc4ac4e81967",
+      "size": 27808760
+    },
+    "rclone-v1.75.0-linux-arm-v6.zip": {
+      "sha256": "4507fa57e8a9031c09be15e3c506f293522c95d488485db2174ae0444f9dd7c8",
+      "size": 29687409
+    },
+    "rclone-v1.75.0-linux-arm64.zip": {
+      "sha256": "d0ad88ba4c8e285b7c9efa591e0ab643280a91741e13c27f3a9c0957ccfa5203",
+      "size": 28620931
+    }
+  },
+  "asset_count": 8,
+  "vetted_at": "2026-08-19T15:19:14Z",
+  "vetted_by": ""
+}

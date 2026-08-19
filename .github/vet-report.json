@@ -1,0 +1,41 @@
+{
+  "gate": "warn",
+  "license": {
+    "declared": "MIT",
+    "detected": [],
+    "license_files": [],
+    "matches": false,
+    "status": "warn",
+    "detail": "declared MIT but no license/SPDX content detected in archive"
+  },
+  "asset": {
+    "format": "zip",
+    "size": 29851563,
+    "valid": true,
+    "is_html": false,
+    "binary": "rclone",
+    "elf_arch": "Intel 80386",
+    "status": "pass",
+    "detail": "valid zip archive containing 1 ELF executable(s); first: rclone (Intel 80386); release covers: amd64 arm64 "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64"
+    ],
+    "missing": [
+      "armel",
+      "armhf",
+      "i386",
+      "ppc64el",
+      "s390x",
+      "riscv64",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "rclone-v1.75.0-linux-amd64.zip",
+      "arm64": "rclone-v1.75.0-linux-arm64.zip"
+    }
+  },
+  "vetted_at": "2026-08-19T15:19:15Z"
+}
